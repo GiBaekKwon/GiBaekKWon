@@ -1,5 +1,5 @@
 # 안녕하세요👋 영남대 재학중인 권기백입니다.
-### 💻 영남대학교 정보통신공학과
+### 💻 영남대학교 컴퓨터학부 정보통신공학과
 <!--
 **GiBaekKwon/GiBaekKWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
